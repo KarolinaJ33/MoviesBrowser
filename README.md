@@ -1,6 +1,6 @@
 ## <h1 align="center">🎬 Movies Browser <h1>
 ## Demo 
-[See Movies Browser](https://karolinaj33.github.io/movies-browser/)
+[See Movies Browser](https://karolinaj33.github.io/MoviesBrowser/)
 
 ![Movies Browser Gif](/Animation.gif)
 
